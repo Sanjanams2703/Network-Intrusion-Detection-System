@@ -30,7 +30,7 @@ The approach combines several base models under a **stacking meta-model** and is
 
 ## Dataset
 
-**network_intrusion.csv**
+![Dataset](network_intrusion.csv)
 
 The model is trained on a labeled dataset with 41+ network traffic features and a target class:
 
